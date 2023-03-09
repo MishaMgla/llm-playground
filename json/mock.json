@@ -1,0 +1,10 @@
+{
+    "texts": [
+        "This example goes over how to load data from JSON files. The second argument is a JSONPointer to the array of strings to extract from the JSON file. One document will be created for each string in the array. You can omit the second argument to load a JSON file containing an array of strings.",
+        "You start an Apple News Format article by creating a JSON article document file with the name article.json. This file—along with images and other resource files—contains the information needed by the Apple News app to process and render your article.",
+        "But as engineers pore over terabytes of data from that maiden voyage, they've uncovered crucial hardware problems that will warrant further scrutiny before they can safely put humans into orbit on the next launch. Those issues include significant damage to the mobile launcher — the Space Launch System rocket's platform — and the Orion spacecraft's protective heat shield.",
+        "The most notable feature of the Realme C55, however, is the Mini Capsule, as it's the first widely available smartphone to copy the iPhone's Dynamic Island. Without it, the Realme C55 has a typical, centrally positioned punch-hole selfie camera; when the Mini Capsule expands, it can display info such as charging power and status, data usage, and step count.",
+        "That’s the most basic, to-the-point description I can possibly give for a show that's been pumping out such a wide variety of content for so long. Despite the breadth of On Cinema's offerings, it’s really very simple: Two dudes review movies poorly while talking about all of the chaotic off-screen drama affecting their characters when the cameras aren't rolling.",
+        "Visitors can write and pin notes for the Twice members, play an escape room mini game called  (named after the group's forthcoming single), and try their hand at a trivia challenge. I tried the trivia game this morning and found it surprisingly difficult. Your avatar has to run its little butt between different colored answer squares in a matter of seconds. Even if you know the answer, it can be hard to get to the right square in time."
+    ]
+}
